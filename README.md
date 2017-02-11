@@ -9,6 +9,7 @@ hierarchy of needs are met.
 1. Sleep / exercise and overall health
 1. Food
 1. Stress levels
+1. Vacation and recovery policies
 
 ## Level 2 (Safety)
 
@@ -23,6 +24,8 @@ hierarchy of needs are met.
     1. Commutes
     1. Harassment policies
     1. WFH policies
+    1. Health insurance
+    1. Maternity / paternity leave
 1. Employment safety
     1. Fair and understood work evaluation
     1. Fair compensation policies
