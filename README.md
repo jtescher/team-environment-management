@@ -23,6 +23,7 @@ hierarchy of needs are met.
 1. Physical Safety
     1. Commutes
     1. Harassment policies
+    1. No sexism / agism / racism / or prejudices of any kind
     1. WFH policies
     1. Health insurance
     1. Maternity / paternity leave
@@ -55,6 +56,7 @@ hierarchy of needs are met.
         1. Team celebrations
         1. Peer bonuses
     1. Company recognition
+        1. Fair compensation and bonuses
     1. External recognition
         1. Open source contributions
         1. Publishing examples of work
@@ -65,8 +67,9 @@ hierarchy of needs are met.
 1. Autonomy
     1. Ability to shape tools / processes
     1. Creative flexibility and empowerment
-    1. Effective use of time
-    1. Participate in decision making
+    1. Manage use of time and work / life balance
+    1. Participate in discussions and decision making
+    1. Ability to join / leave teams and projects
 1. Mastery
     1. Ability to hone existing skills
     1. Ability to acquire new skills
@@ -74,3 +77,8 @@ hierarchy of needs are met.
 1. Purpose
     1. Understanding meaningful company goals and mission
     1. Impact on company progress toward goals
+
+
+### Inspirations
+
+- https://www.youtube.com/watch?v=i0FzgvYxdvk
