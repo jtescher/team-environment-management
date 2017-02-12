@@ -30,6 +30,7 @@ hierarchy of needs are met.
 1. Employment safety
     1. Fair and understood work evaluation
     1. Fair compensation policies
+    1. Ability to take vacation without repercussions
     1. Long term career advancement
 
 ## Level 3 (Belongingness and Love)
@@ -40,6 +41,7 @@ hierarchy of needs are met.
     1. Diverse group conversations / topics
     1. Equally passionate peers
     1. Relationship with manager
+    1. Onboarding and welcoming new team members
 1. Company belongingness
     1. Inclusive company events
     1. Shared goals / plans
